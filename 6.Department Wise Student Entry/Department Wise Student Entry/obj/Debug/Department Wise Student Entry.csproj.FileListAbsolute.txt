@@ -1,0 +1,9 @@
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\bin\Debug\Department Wise Student Entry.exe.config
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\obj\Debug\Department_Wise_Student_Entry.DepartmentWiseStudentEntryUI.resources
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\obj\Debug\Department_Wise_Student_Entry.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\obj\Debug\Department Wise Student Entry.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\bin\Debug\Department Wise Student Entry.exe
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\bin\Debug\Department Wise Student Entry.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\obj\Debug\Department Wise Student Entry.exe
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\obj\Debug\Department Wise Student Entry.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Department Wise Student Entry\Department Wise Student Entry\obj\Debug\Department Wise Student Entry.csprojResolveAssemblyReference.cache

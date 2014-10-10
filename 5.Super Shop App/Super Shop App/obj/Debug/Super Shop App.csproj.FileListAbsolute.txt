@@ -1,0 +1,9 @@
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\bin\Debug\Super Shop App.exe.config
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\bin\Debug\Super Shop App.exe
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\bin\Debug\Super Shop App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\obj\Debug\Super_Shop_App.SuperShopUI.resources
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\obj\Debug\Super_Shop_App.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\obj\Debug\Super Shop App.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\obj\Debug\Super Shop App.exe
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\obj\Debug\Super Shop App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Super Shop App\Super Shop App\obj\Debug\Super Shop App.csprojResolveAssemblyReference.cache

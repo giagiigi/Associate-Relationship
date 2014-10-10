@@ -1,0 +1,28 @@
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\bin\Debug\Student Entry App.exe.config
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\obj\Debug\Student_Entry_App.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\obj\Debug\Student_Entry_App.StudentEntryUI.resources
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\obj\Debug\Student Entry App.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\bin\Debug\Student Entry App.exe
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\bin\Debug\Student Entry App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\obj\Debug\Student Entry App.exe
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\obj\Debug\Student Entry App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Student Entry App\Student Entry App\obj\Debug\Student Entry App.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry Unique Resistration Number App\Student Entry App\bin\Debug\Student Entry App.exe.config
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student Entry App.exe
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student Entry App.pdb
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry Unique Resistration Number App\Student Entry App\bin\Debug\Student Entry App.exe
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry Unique Resistration Number App\Student Entry App\bin\Debug\Student Entry App.pdb
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student_Entry_App.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student_Entry_App.StudentEntryUI.resources
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student Entry App.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\RverseApp\4.Student Entry Unique Resistration Number App\Student Entry App\bin\Debug\Student Entry App.exe.config
+C:\Users\Hafiz\Desktop\RverseApp\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student Entry App.exe
+C:\Users\Hafiz\Desktop\RverseApp\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student Entry App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student_Entry_App.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\RverseApp\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student_Entry_App.StudentEntryUI.resources
+C:\Users\Hafiz\Desktop\RverseApp\4.Student Entry Unique Resistration Number App\Student Entry App\obj\Debug\Student Entry App.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\RverseApp\4.Student Entry Unique Resistration Number App\Student Entry App\bin\Debug\Student Entry App.exe
+C:\Users\Hafiz\Desktop\RverseApp\4.Student Entry Unique Resistration Number App\Student Entry App\bin\Debug\Student Entry App.pdb
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry with Dictonary App\Student Entry App\bin\Debug\Student Entry App.exe.config
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry with Dictonary App\Student Entry App\obj\Debug\Student Entry App.exe
+C:\Users\Hafiz\Desktop\Association Relationship\4.Student Entry with Dictonary App\Student Entry App\obj\Debug\Student Entry App.pdb

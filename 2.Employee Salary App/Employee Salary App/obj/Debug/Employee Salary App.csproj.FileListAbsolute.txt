@@ -1,0 +1,9 @@
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\bin\Debug\Employee Salary App.exe.config
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\bin\Debug\Employee Salary App.exe
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\bin\Debug\Employee Salary App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\obj\Debug\Employee Salary App.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\obj\Debug\Employee_Salary_App.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\obj\Debug\Employee Salary App.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\obj\Debug\Employee Salary App.exe
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\obj\Debug\Employee Salary App.pdb
+C:\Users\Hafiz\Desktop\RverseApp\Employee Salary App\Employee Salary App\obj\Debug\Employee_Salary_App.EmployeeSalaryUI.resources
